@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">contactList</string>
+    <string name="name">Name</string>
+    <string name="phone" />
+    <string name="Phone">Phone</string>
+    <string name="errorMessage">Value required</string>
+</resources>
